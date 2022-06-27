@@ -389,7 +389,7 @@ if (isset($_POST['add_event'])) {
         );
 
         $headers = array(
-          'Authorization: key=AAAAfSunW64:APA91bECqtSHA54uPsvZQfKDzwU25u4FQhJHvk5y2DZH-1cCVc-hizIuctBauFYlsgtOYMhEOmYsYMytRvfxs8MHUYPApxtmANqYxJ-DD-vE09bZ-eszGzMSCI8Im4lSIVgBBn0KA5si',
+          'Authorization: key=CHANGER-MOI',
           'Content-Type: application/json'
         );
 
