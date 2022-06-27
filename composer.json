@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ovh/ovh": "^3.0",
+        "phpmailer/phpmailer": "6.6.0"
+    }
+}
